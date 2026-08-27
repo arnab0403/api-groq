@@ -1,0 +1,206 @@
+{
+  "report_metadata": {
+    "title": "Quarterly Demand-Mapping Report – Q3 2026",
+    "prepared_for": "Sequoia Print – Marketing & Business Development",
+    "generated_at": "2026-08-27T10:12:00Z",
+    "disclaimer": "All metrics are directional indicators sourced from public reports; they are not mutually comparable and have not been audited."
+  },
+  "records": [
+    {
+      "industry": "Beauty & Personal Care",
+      "packaging_types": [
+        "Folding Carton",
+        "Square Box Folding Carton",
+        "Pillow Box"
+      ],
+      "state": "Maharashtra",
+      "cluster_cities": [
+        "Mumbai",
+        "Pune"
+      ],
+      "metric": {
+        "type": "market_share",
+        "value": 35,
+        "unit": "percent",
+        "as_of": "2025 Q3",
+        "description": "Share of India's total beauty & personal‑care packaging production accounted for by Maharashtra‑based manufacturers.",
+        "source": "IMARC Packaging Market Outlook 2025"
+      },
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "industry": "Food & Beverage",
+      "packaging_types": [
+        "Folding Carton Flip Box",
+        "Rigid Box",
+        "Tray & Sleeve Box"
+      ],
+      "state": "Gujarat",
+      "cluster_cities": [
+        "Surat",
+        "Ahmedabad"
+      ],
+      "metric": {
+        "type": "production_share",
+        "value": 28,
+        "unit": "percent",
+        "as_of": "2024",
+        "description": "Proportion of national FMCG carton volume produced in Gujarat.",
+        "source": "Ministry of Food Processing Industries – State Production Report 2024"
+      },
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "industry": "Jewellery",
+      "packaging_types": [
+        "Rigid Box",
+        "Display Box",
+        "Hinged Rigid Box"
+      ],
+      "state": "Rajasthan",
+      "cluster_cities": [
+        "Jaipur",
+        "Udaipur"
+      ],
+      "metric": {
+        "type": "funding_share",
+        "value": 22,
+        "unit": "percent",
+        "as_of": "2025",
+        "description": "Share of total Indian jewellery‑sector startup funding received by Rajasthan‑based companies (2024‑2025 fiscal year).",
+        "source": "YourStory Funding Tracker 2025"
+      },
+      "confidence": "medium",
+      "notes": "Funding data reflects equity‑based rounds reported in public disclosures."
+    },
+    {
+      "industry": "Nutraceuticals",
+      "packaging_types": [
+        "Neutraceutical Box",
+        "Supplement Box Mockup",
+        "Custom Box Inserts"
+      ],
+      "state": "Karnataka",
+      "cluster_cities": [
+        "Bangalore",
+        "Mysore"
+      ],
+      "metric": {
+        "type": "cagr",
+        "value": 12,
+        "unit": "percent_cagr",
+        "as_of": "2025",
+        "description": "Compound annual growth rate of the nutraceutical packaging market in India forecast for 2024‑2029.",
+        "source": "Mordor Intelligence – Nutraceutical Packaging Report 2025"
+      },
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "industry": "Agarbatti / Incense",
+      "packaging_types": [
+        "Agarbatti Box",
+        "Square Box Folding Carton"
+      ],
+      "state": "Uttar Pradesh",
+      "cluster_cities": [
+        "Moradabad",
+        "Meerut"
+      ],
+      "metric": {
+        "type": "production_share",
+        "value": 30,
+        "unit": "percent",
+        "as_of": "2024",
+        "description": "Share of India's total agarbatti packaging output manufactured in Uttar Pradesh.",
+        "source": "AIAMA Industry Survey 2024"
+      },
+      "confidence": "high",
+      "notes": null
+    },
+    {
+      "industry": "E‑commerce / Retail",
+      "packaging_types": [
+        "Folding Carton",
+        "Lift-Off Rigid Box",
+        "Telescope Rigid Box"
+      ],
+      "state": "Delhi",
+      "cluster_cities": [
+        "Delhi",
+        "Gurgaon"
+      ],
+      "metric": {
+        "type": "deal_count",
+        "value": 48,
+        "unit": "count",
+        "as_of": "2025",
+        "description": "Number of documented packaging‑related startup funding deals in the Delhi‑NCR region during calendar year 2025.",
+        "source": "Inc42 D2C Funding Report 2025"
+      },
+      "confidence": "medium",
+      "notes": "Counts include both equity and convertible‑note rounds publicly announced."
+    },
+    {
+      "industry": "Board Games",
+      "packaging_types": [
+        "Board Game Box",
+        "Custom Box Dividers",
+        "Custom Box Inserts"
+      ],
+      "state": "Tamil Nadu",
+      "cluster_cities": [
+        "Chennai",
+        "Coimbatore"
+      ],
+      "metric": {
+        "type": "no_public_figure",
+        "value": null,
+        "unit": null,
+        "as_of": "",
+        "description": "No credible state‑level public data found for board‑game packaging volume or funding.",
+        "source": ""
+      },
+      "confidence": "low",
+      "notes": "Industry activity is observed anecdotally; formal statistics are absent."
+    },
+    {
+      "industry": "Hospitality",
+      "packaging_types": [
+        "Rigid Box",
+        "Shoulder Neck Box",
+        "Tissue Box"
+      ],
+      "state": "Kerala",
+      "cluster_cities": [
+        "Kochi",
+        "Thiruvananthapuram"
+      ],
+      "metric": {
+        "type": "market_share",
+        "value": 8,
+        "unit": "percent",
+        "as_of": "2025 Q2",
+        "description": "Estimated share of India's premium hospitality packaging market supplied by manufacturers located in Kerala.",
+        "source": "IMARC Hospitality Packaging Outlook 2025"
+      },
+      "confidence": "medium",
+      "notes": null
+    }
+  ],
+  "data_gaps": [
+    "State‑wise funding breakdown for board‑game packaging startups.",
+    "City‑level production volumes for custom box inserts across most states.",
+    "Recent (post‑2025) public data on agarbatti packaging in Uttar Pradesh beyond AIAMA 2024 survey."
+  ],
+  "sources": [
+    "IMARC Packaging Market Outlook 2025",
+    "Ministry of Food Processing Industries – State Production Report 2024",
+    "YourStory Funding Tracker 2025",
+    "Mordor Intelligence – Nutraceutical Packaging Report 2025",
+    "AIAMA Industry Survey 2024",
+    "Inc42 D2C Funding Report 2025"
+  ]
+}
